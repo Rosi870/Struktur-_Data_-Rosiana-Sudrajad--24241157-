@@ -23,3 +23,5 @@ print(hasil)
 hasil = a != b
 print(hasil)
 
+hasil = (" a not b ") 
+print(hasil)
