@@ -1,0 +1,10 @@
+lahir = input("masukan tempat ")
+
+hasil = len(lahir)
+hasil = lahir.find("r")
+hasil = lahir.rfind("t")
+hasil = lahir.capitalize()
+hasil = lahir.upper()
+hasil = lahir.lower()
+hasil = lahir.isdigit()
+print(hasil)
