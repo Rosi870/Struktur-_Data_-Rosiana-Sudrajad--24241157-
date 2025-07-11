@@ -1,0 +1,11 @@
+nama = " ROSIANA SUDRAJAT"
+alamat= " lombok timur"
+nim = 24241157"
+nimpertama = 24
+nimakhir = 57
+habisl = nimpertama nimakhir
+
+print(" saya berasal dar" +nama)
+print ( "saya berasal dari" + alamat)
+print ("nim saya"+nim)
+print ("hasil perjumlahan dari (nimpertama)+(nimaakhir
