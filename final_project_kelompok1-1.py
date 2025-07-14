@@ -1,3 +1,8 @@
+#===================
+#TUGAS UAS#
+#ROSIANA SUDRAJAD (24241157)
+#
+
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
